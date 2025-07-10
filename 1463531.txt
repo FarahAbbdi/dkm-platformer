@@ -1,0 +1,23 @@
+9036c5c - farah, 12 minutes ago : Add build artifacts and local config files
+6810411 - farah, 22 minutes ago : Fix: Set final score to 0 when game is lost
+ef9edfd - farah, 3 hours ago : Refactor: Split Mario class into focused components
+74b6aa7 - farah, 4 hours ago : Refactor: Add unified managers and decouple game architecture
+0b14025 - farah, 6 hours ago : Refactor: Replace protected attributes with private fields and accessors
+a67f627 - farah, 6 hours ago : Refactor: Create Collectible base class for Hammer and Blaster
+62a77fa - farah, 6 hours ago : Refactor: Remove duplicate code by creating Projectile base class
+ebf002a - farah, 6 hours ago : Refactor: Remove duplicate code by creating Projectile base class
+160a224 - farah, 28 hours ago : Feat: Add Donkey health with bullet damage
+25a6863 - farah, 30 hours ago : Feat: Add bullet shooting mechanics
+be9bc18 - farah, 31 hours ago : Refactor: Increase blaster bullet count from 3 to 5 and remove hammer invincibility
+dd99355 - farah, 2 days ago : Feat: Add blaster collection and bullet counter functionality to Level 2
+0cbc70f - farah, 2 days ago : Feat: Add banana projectiles for IntelligentMonkey enemies
+918e9b0 - farah, 2 days ago : Feat: Add waypoint-based movement to monkey enemies
+7d5ce7a - farah, 3 days ago : Feat: Add gravity physics to monkey enemies for falling behaviour
+5e72934 - farah, 3 days ago : Feat: Initialize all Level2 game elements
+051bc0a - farah, 3 days ago : Refactor: Hammer implementation to support multiple hammers in levels
+3dd28e0 - farah, 3 days ago : Feat: Implement level selection and screen transitions
+033c3cc - farah, 4 days ago : Feat: Add Mario level 1 image to res directory
+6f184b2 - farah, 4 days ago : Refactor: GameplayScreen into Level structure for multi-level support
+4d14a47 - farah, 4 days ago : Feat: Add resources for Level 2
+84a9d48 - farah, 4 days ago : Fix: Prevent scoring on destroyed barrel locations
+74748cf - farah, 4 days ago : add project 1
