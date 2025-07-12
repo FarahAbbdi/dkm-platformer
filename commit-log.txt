@@ -20,4 +20,26 @@ dd99355 - farah, 2 days ago : Feat: Add blaster collection and bullet counter fu
 6f184b2 - farah, 4 days ago : Refactor: GameplayScreen into Level structure for multi-level support
 4d14a47 - farah, 4 days ago : Feat: Add resources for Level 2
 84a9d48 - farah, 4 days ago : Fix: Prevent scoring on destroyed barrel locations
-74748cf - farah, 4 days ago : add project 1
+94d0a01 - farah, 10 days ago : Feat: implement GameSession for score and win tracking, integrate with GameOverScreen
+c54e822 - farah, 10 days ago : Feat: implement barrel interactions
+480d6fe - farah, 10 days ago : Feat: add gravity and platform landing to DonkeyKong and Barrel
+f404a73 - farah, 10 days ago : Feat: add Mario jump and ladder climbing logic
+33412db - farah, 10 days ago : Refactor: simplify code and apply consistent styling for readability and maintainability
+d4d5748 - farah, 10 days ago : Feat: add MovableEntity clas to extend Entity for Mario, DonkeyKong, and Barrel
+83587ad - farah, 10 days ago : Feat: Refactor main game logic and simplify screem management
+5956c7e - farah, 12 days ago : Feat: fix entity positioning on platforms
+2567d54 - farah, 12 days ago : Feat: add Mario movement, jumping, gravitiy, and rendering
+78c3d29 - farah, 12 days ago : Feat: implement Donkey Kong class and rendering
+0cb8278 - farah, 12 days ago : Feat: add Hammer class and rendering
+f338b23 - farah, 12 days ago : Feat: implement Ladder class and integrate rendering in GamePlayScreen
+def6e12 - farah, 12 days ago : Feat: implement Barrel entity class and render in GamePlayScreen
+08ea504 - farah, 12 days ago : Feat: add Platform rendering and initialisation into GamePlayScreen
+3270881 - farah, 13 days ago : Feat: add platform class for static game surfaces
+4533f2b - farah, 13 days ago : Feat: add abstract Entity class with core game object functionality
+40a4aa9 - farah, 13 days ago : Feat: implement main game class
+31c7b73 - farah, 13 days ago : Feat: implement Gameplay Screen framework
+60aa237 - farah, 13 days ago : Feat: implement GameOver Screen
+6a82317 - farah, 14 days ago : Feat: implement Home Screen
+b2e88ea - farah, 14 days ago : Feat: create GameState enum for state management
+9e18165 - farah, 14 days ago : Feat: add screen interface
+559c70d - farah, 20 days ago : Initial commit

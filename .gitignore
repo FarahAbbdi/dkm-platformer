@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+# IntelliJ IDEA project settings
+.idea/
+# Maven build directory (includes classes, generated-sources, maven-status, etc.)
+target/
